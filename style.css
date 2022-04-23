@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    margin: 0 auto;
+    background-color: #AAAAAA;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.sites {
+    text-align: right;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+.sites > p img {
+    float: left;
+    float: top;
+    max-width: 600px;
+    max-height: 300px;
+    width: 300px;
+    height: 300px;
+}
+
+.sites > p {
+    max-width: 400px;
+}
+
+.sites > br {
+    clear: both;
+}
